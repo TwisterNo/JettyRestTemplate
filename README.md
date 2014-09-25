@@ -2,7 +2,7 @@ JettyRestTemplate
 =================
 
 A minimal template project to get you started developing RESTful services in java. It is based on:
-
+Hello
 * java 8
 * gradle
 * jetty 9
